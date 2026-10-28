@@ -2,6 +2,8 @@ import React from 'react';
 import { motion } from 'motion/react';
 import { Waves, HeartHandshake, ShieldCheck } from 'lucide-react';
 import { soundEngine } from '../lib/audio';
+import echoEtherealResonance from '../assets/images/echo_ethereal_resonance_1793214843115.jpg';
+import echoHumanConnection from '../assets/images/echo_human_connection_1793214842450.jpg';
 
 export const ConceptSection: React.FC = () => {
   return (
@@ -46,7 +48,7 @@ export const ConceptSection: React.FC = () => {
             {/* Visual Container */}
             <div className="relative rounded-xl overflow-hidden aspect-video bg-[#0c0c14] border border-white/10 group-hover:border-violet-400/30 transition-colors">
               <img
-                src="/src/assets/images/echo_ethereal_resonance_1793214843115.jpg"
+                src={echoEtherealResonance}
                 alt="Ethereal concentric sound wave ripples and light frequencies"
                 referrerPolicy="no-referrer"
                 className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700 ease-out"
@@ -85,7 +87,7 @@ export const ConceptSection: React.FC = () => {
             {/* Visual Container */}
             <div className="relative rounded-xl overflow-hidden aspect-[4/3] bg-[#0c0c14] border border-white/10 group-hover:border-blue-400/30 transition-colors">
               <img
-                src="/src/assets/images/echo_human_connection_1793214842450.jpg"
+                src={echoHumanConnection}
                 alt="Minimalist sculpture of delicate illuminated glass ribbons floating in deep black space"
                 referrerPolicy="no-referrer"
                 className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700 ease-out"
