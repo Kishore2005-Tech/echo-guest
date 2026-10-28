@@ -1,0 +1,8 @@
+{
+  "name": "ECHO — Leave Your Mark",
+  "description": "An award-winning interactive digital guestbook where every thought leaves an echo. Connects with Supabase PostgreSQL to preserve visitors' stories, reflections, and moments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
