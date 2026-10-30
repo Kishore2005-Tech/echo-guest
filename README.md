@@ -36,7 +36,7 @@ ECHO Guest addresses this problem by providing a shared digital platform where v
 
 ## Key Features
 
-### 1. Digital Guestbook
+ 1. Digital Guestbook
 - Submit messages using a name or pseudonym.
 - Write reflections up to 500 characters.
 - No application-level sign-up flow is required.
