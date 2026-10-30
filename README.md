@@ -12,7 +12,7 @@
 
 ---
 
- Overview
+## Overview
 
 **ECHO Guest** is a web-based digital guestbook that allows visitors to share their thoughts, emotions, memories, and personal reflections in a common digital space.
 
