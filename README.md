@@ -22,7 +22,7 @@ Users can submit messages using their names or pseudonyms, select a mood, and di
 
 > **Make your voice bold.**
 
-## Problem Statement
+ Problem Statement
 
 Personal thoughts, memories, appreciation, and reflections are often shared through temporary platforms where they can quickly become difficult to find or are eventually lost.
 
