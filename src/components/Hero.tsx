@@ -6,7 +6,7 @@ import { InteractiveOrb } from './InteractiveOrb';
 interface HeroProps {
   onLeaveEcho: () => void;
   onExploreMessages: () => void;
-  
+  messageCount?: number;
   
  
 }
