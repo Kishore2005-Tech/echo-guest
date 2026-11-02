@@ -7,8 +7,6 @@ interface HeroProps {
   onLeaveEcho: () => void;
   onExploreMessages: () => void;
   messageCount?: number;
-  
- 
 }
 
 export const Hero: React.FC<HeroProps> = ({
