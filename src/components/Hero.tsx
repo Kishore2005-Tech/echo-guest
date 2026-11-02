@@ -134,7 +134,7 @@ export const Hero: React.FC<HeroProps> = ({
             Scroll to discover
           </span>
           <motion.div
-            animate={{ y: [0, 6, 0] }}
+            
             transition={{ repeat: Infinity, duration: 2, ease: 'easeInOut' }}
             className="w-5 h-8 rounded-full border border-white/20 flex items-start justify-center p-1.5"
           >
