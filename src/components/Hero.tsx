@@ -134,7 +134,7 @@ export const Hero: React.FC<HeroProps> = ({
             Scroll to discover
           </span>
           <motion.div
-            
+            animate={{ y: [0, 6, 0] }}
             
             
           >
