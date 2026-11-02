@@ -5,7 +5,7 @@ import { InteractiveOrb } from './InteractiveOrb';
 
 
   
-  onExploreMessages: () => void;
+  
   messageCount?: number;
 }
 
