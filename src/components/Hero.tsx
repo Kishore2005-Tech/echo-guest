@@ -4,7 +4,7 @@ import { ArrowDown, Sparkles, MessageCircle } from 'lucide-react';
 import { InteractiveOrb } from './InteractiveOrb';
 
 
-  onLeaveEcho: () => void;
+  
   onExploreMessages: () => void;
   messageCount?: number;
 }
