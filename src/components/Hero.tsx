@@ -3,7 +3,7 @@ import { motion } from 'motion/react';
 import { ArrowDown, Sparkles, MessageCircle } from 'lucide-react';
 import { InteractiveOrb } from './InteractiveOrb';
 
-interface HeroProps {
+
   onLeaveEcho: () => void;
   onExploreMessages: () => void;
   messageCount?: number;
