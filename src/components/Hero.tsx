@@ -136,7 +136,7 @@ export const Hero: React.FC<HeroProps> = ({
           <motion.div
             animate={{ y: [0, 6, 0] }}
             transition={{ repeat: Infinity, duration: 2, ease: 'easeInOut' }}
-            
+            className="w-5 h-8 rounded-full border border-white/20 flex items-start justify-center p-1.5"
           >
             <div className="w-1 h-1.5 rounded-full bg-violet-400" />
           </motion.div>
