@@ -6,7 +6,7 @@ import { InteractiveOrb } from './InteractiveOrb';
 
   
   
-  messageCount?: number;
+ 
 }
 
 export const Hero: React.FC<HeroProps> = ({
