@@ -2,7 +2,7 @@
 
 ### Every thought leaves an echo.
 
-**A collective digital guestbook for sharing thoughts, emotions, stories, and reflections.**
+**A collective digital guestbook for sharing thoughts, emotions, stories, and reflections.
 
 ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-7-3178C6?logo=typescript)
