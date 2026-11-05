@@ -64,7 +64,7 @@ Each mood has its own visual identity and associated sound frequency.
 - Refresh the message wall.
 - Display submission dates and mood information.
 
-## 4. Audio Experience
+### 4. Audio Experience
 - Mood-based synthesized sounds.
 - Interactive audio feedback.
 - Harmonic sounds after successful submissions.
