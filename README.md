@@ -20,7 +20,7 @@ Unlike temporary social media posts, ECHO Guest stores submitted messages in a p
 
 Users can submit messages using their names or pseudonyms, select a mood, and discover messages through interactive search and filtering features.
 
-> **Make your voice bold.**
+> **Make your voice bold.
 
 ## Problem Statement
 
