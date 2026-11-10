@@ -16,7 +16,7 @@
 
 **ECHO Guest** is a web-based digital guestbook that allows visitors to share their thoughts, emotions, memories, and personal reflections in a common digital space.
 
-**Unlike temporary social media posts, ECHO Guest stores submitted messages in a persistent database, allowing visitors to explore and revisit reflections shared by others.
+Unlike temporary social media posts, ECHO Guest stores submitted messages in a persistent database, allowing visitors to explore and revisit reflections shared by others.
 
 Users can submit messages using their names or pseudonyms, select a mood, and discover messages through interactive search and filtering features.
 
