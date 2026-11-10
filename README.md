@@ -24,7 +24,7 @@ Users can submit messages using their names or pseudonyms, select a mood, and di
 
 ## Problem Statement
 
-**Personal thoughts, memories, appreciation, and reflections are often shared through temporary platforms where they can quickly become difficult to find or are eventually lost.**
+**Personal thoughts, memories, appreciation, and reflections are often shared through temporary platforms where they can quickly become difficult to find or are eventually lost.
 
 ECHO Guest addresses this problem by providing a shared digital platform where visitors can:
 
